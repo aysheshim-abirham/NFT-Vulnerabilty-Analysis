@@ -1,0 +1,6 @@
+{
+ "remappings": [ "@openzeppelin/contracts/=/data/mythx-tests/lib/" ],
+  "optimizer": {
+    "enabled": true
+  }
+}
