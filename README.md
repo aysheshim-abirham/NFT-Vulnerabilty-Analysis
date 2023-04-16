@@ -4,6 +4,7 @@ Created a cutommodule todetect NFT specfic vulnerbailties in Mythril to statical
 # Installation
 
  - [Docker Desktop](https://mythril-classic.readthedocs.io/en/master/installation.html#docker)
+ 
   You can use the following command to install virtualenv:
    $python -m pip install --user virtualenv
 
