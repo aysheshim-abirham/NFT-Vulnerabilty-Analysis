@@ -4,12 +4,12 @@ Created a cutommodule todetect NFT specfic vulnerbailties in Mythril to statical
 # Installation
 
  - [Docker Desktop](https://mythril-classic.readthedocs.io/en/master/installation.html#docker)
- # You can use the following command to install virtualenv:
+  You can use the following command to install virtualenv:
    $python -m pip install --user virtualenv
 
-##Testing Mythril
+# Testing Mythril
 
-#Run first test for before results
+ ## Run first test for before results
 
 $ mkdir <foldername>
 
@@ -25,5 +25,5 @@ $ docker run -v %CD%/data:/data mythril/myth -v4 analyze /data/mythx-tests/05222
 
 $ docker run -v %CD%/data:/data mythril/myth -v4 analyze /data/mythx-tests/05222022-25/PredictTheFutureChallenge_before.sol
 
-##Testing Myhtril for after results pending
+## Testing Myhtril for after results pending
  -
